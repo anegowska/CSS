@@ -1,4 +1,4 @@
-#main-content #sub-content p{
-    color: red;
+#all-articles h2 + p{
+    color: green;
 
 }
