@@ -1,14 +1,7 @@
-/* TARGETING ELEMENTS */
-
-body {
+p,span,a,li{
     color: red;
+    font-size: 14px;
+    font-weight: bold;
+    font-family: Arial;
 
-}
-
-div{
-    color: blue;
-}
-
-p{
-    color: green;
 }
