@@ -1,14 +1,11 @@
-span[class="deck"]{
-    color: purple;
-
-}
-
-div[id]{
-    background:grey;
-
-}
-
-a[title]{
+a:hover{
     color:red;
+}
 
+a:active{
+    color:darkgreen;
+}
+
+a:visited{
+    color:purple;
 }
