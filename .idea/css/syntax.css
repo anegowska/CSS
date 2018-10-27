@@ -1,7 +1,17 @@
 .box{
-    margin:30px;
-    padding:30px;
-    border: 1px solid #000;
-    width: 400px;
-    height:200px;
+    margin:24px;
+    padding:14px;
+    float:left;
+}
+
+.one {
+    border: 2px blue dashed;
+}
+
+.two {
+    border: 2px blue dotted;
+}
+
+.three {
+    border: 2px blue outset;
 }
