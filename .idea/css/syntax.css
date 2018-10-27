@@ -1,17 +1,20 @@
-.box{
-    margin:24px;
-    padding:14px;
-    float:left;
+#main-content div{
+    background-color: #ccc;
+    margin: 0 0 20px 0;
+
 }
 
 .one {
-    border: 2px blue dashed;
+    width: 300px;
+    height:100px;
 }
 
 .two {
-    border: 2px blue dotted;
+    width: 70%;
+    height:50px;
 }
 
 .three {
-    border: 2px blue outset;
+    width: 40%;
+    display: inline-block;
 }
